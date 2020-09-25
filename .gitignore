@@ -1,5 +1,5 @@
 *.db
-*.swp
+*.sw?
 package-lock.json
 dist/
 node_modules/
