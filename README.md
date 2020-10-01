@@ -9,7 +9,7 @@ Multi-agent Reinforcement Learning Layout ([demo](https://.github.io/)) extensio
 ## Dependencies
 
  * Cytoscape.js ^3.2.0
- * <List your dependencies here please>
+ * [reinforcejs](https://github.com/karpathy/reinforcejs)
 
 
 ## Usage instructions
