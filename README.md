@@ -4,7 +4,7 @@ cytoscape-marll
 
 ## Description
 
-Multi-agent Reinforcement Learning Layout ([demo](https://.github.io/))
+Multi-agent Reinforcement Learning Layout ([demo](https://.github.io/)) extension implements multi-agent reiforcement learning version of classical force-directed and energy based graph layout algorithms. You can view a demo tool [here](https://kinimesi.github.io/marl-layout-demo/).
 
 ## Dependencies
 
